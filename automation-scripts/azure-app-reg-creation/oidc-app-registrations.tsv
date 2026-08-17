@@ -1,0 +1,10 @@
+DISPLAY_NAME	CLIENT_ID	STATUS
+documents-generator-oidc-azure	dd1590db-7c69-4344-9da3-e13dbdde220d	CREATED
+booking-portal-client-oidc-azure	1c69abcb-d491-499a-846d-29fc48e69eda	CREATED
+skycenter-client-oidc-azure	29e0e76c-8a70-4e7f-91d8-a37ab677c822	EXISTS
+skycore-backend-oidc-azure	d28872a5-04c2-4dca-baad-20461cc5bf75	CREATED
+booking-portal-backend-oidc-azure	45665fe7-a4e3-49d9-82b0-067079d00795	CREATED
+openapi-consolidator-oidc-azure	24b51c7c-6d8a-435d-90db-7bd1b08cf214	CREATED
+temperature-simulation-oidc-azure	e2d9234f-9bc8-4b54-9385-ce71833cb871	CREATED
+skygate-backend-oidc-azure	e98eabf3-565b-4841-a32b-e0c8d87ad48c	CREATED
+skynet-client-oidc-azure	a8642a68-e99b-4d8e-ad4d-4d7cfc76c532	CREATED
